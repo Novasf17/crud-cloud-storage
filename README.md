@@ -15,4 +15,4 @@ Cloud Firestore (Firebase) sebagai cloud storage.
 - Google Firebase Console
 
 ## Screenshot
-
+Gambar nya ada di atas README.md
